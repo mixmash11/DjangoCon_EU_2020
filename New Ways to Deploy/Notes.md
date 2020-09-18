@@ -43,10 +43,23 @@
 - Using Netlify
     - Just hosting the static pages
 
-## SSG Using Netlify
+## Static Site Generation
+
+### Deployment Using Netlify
 
 1. Add netlify
 1. Netlify deploy command
+
+### Pros
+- Cheapest
+- Fastest
+- Most Secure
+
+### Cons
+
+- Build Times
+- More moving parts
+- Doesn't suit things like logins
 
 ## Google Cloud Run
 
@@ -76,20 +89,6 @@
 - Cold starts
 - Still too complicated
 - Database isn't serverless
-
-
-
-# SSG
-- Cheapest
-- Fastest
-- Most Secure
-
-# Cons
-
-- Build Times
-- More moving parts
-- Doesn't suit things like logins
-
 
 
 # Best Fits
