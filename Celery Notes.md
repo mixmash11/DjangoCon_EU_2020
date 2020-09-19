@@ -38,3 +38,17 @@ Revoke - revoke doesn't stop the task if its running
 Terminate - made for terminating a process
 - Could make tasks that are pre-fetched disappear
 
+## QnA
+- Profiling is a lot of the work to identify whether to address code or celery
+- Tutorials
+    - Gotcha Articles
+
+## Links
+A good way to hit the ground running
+https://www.youtube.com/watch?v=68QWZU_gCDA
+https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
+https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/
+Common mistakes
+https://adamj.eu/tech/2020/02/03/common-celery-issues-on-django-projects/
+https://wiredcraft.com/blog/3-gotchas-for-celery/ (hello there TASKS_ACKS_LATE)
+https://devchecklists.com/celery-tasks-checklist/
