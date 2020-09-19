@@ -1,11 +1,12 @@
 # Accessibility Wins for Django Projects
 
-**Accessilbity Matters for Inclusion**
+## Why
+- Accessilbity Matters for Inclusion
+- Accessibility improvments lead to usability improvements
 
-Accessibility improvments lead to usability improvements
+## Legislation:
 
 EU 2016 Accessilbility Directive, 2019 European Accessilbility Act
-
 2025 Act for EU ecommerce, banking, transport services
 
 ## Common Issues
@@ -23,7 +24,9 @@ EU 2016 Accessilbility Directive, 2019 European Accessilbility Act
 
 
 ## Developer Wins
-Focus on doing things during requirements/architecture
+- Focus on doing things during requirements/architecture
+- Have audits
+    - Do manual checks
 - Training:
     - a11yproject.com
     -accessibility-developer-guide.com
@@ -38,3 +41,4 @@ Focus on doing things during requirements/architecture
         - manages ui component libraries
         - test components in isolation
         - unit testing for ui
+        
